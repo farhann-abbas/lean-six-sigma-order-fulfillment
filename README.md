@@ -233,11 +233,7 @@ This creates a complementary portfolio narrative rather than two projects doing 
 
 - **Minitab** — Lean Six Sigma statistical analysis
 - **Excel** — DMAIC artifacts, FMEA, measurement and control plans
-- **PostgreSQL / SQL** — data preparation and analytical dataset creation
-- **DBeaver** — database analysis
-- **Python** — validation, EDA and reproducibility
 - **Power BI** — LSSBB control dashboard
-- **draw.io / diagrams.net** — process maps and visual analysis
 - **PowerPoint** — final case-study presentation
 - **Git / GitHub** — version control and portfolio presentation
 
@@ -409,6 +405,6 @@ Where the dataset is insufficient, the project identifies the limitation and pro
 - [x] Power BI dashboard file and screenshots uploaded
 - [x] Case-study presentation uploaded
 - [x] Repository structure and documentation published
-- [ ] Final visual verification of all Power BI pages in Power BI Desktop
-- [ ] Final visual review of every presentation slide
-- [ ] Final repository polish and profile links
+- [x] Final visual verification of all Power BI pages in Power BI Desktop
+- [x] Final visual review of every presentation slide
+- [x] Final repository polish and profile links
