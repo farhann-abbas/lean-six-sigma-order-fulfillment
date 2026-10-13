@@ -401,11 +401,14 @@ Where the dataset is insufficient, the project identifies the limitation and pro
 
 ## Portfolio Status
 
-- [x] Define
-- [x] Measure
-- [x] Analyze
-- [x] Improve
-- [x] Control
-- [ ] Final Power BI control dashboard
-- [ ] Final case-study presentation
-- [ ] GitHub screenshots / visual polish
+- [x] Define phase artifacts and documentation
+- [x] Measure phase artifacts and baseline analysis
+- [x] Analyze phase artifacts and statistical interpretation
+- [x] Improve phase artifacts and proposed pilot interventions
+- [x] Control phase artifacts and monitoring framework
+- [x] Power BI dashboard file and screenshots uploaded
+- [x] Case-study presentation uploaded
+- [x] Repository structure and documentation published
+- [ ] Final visual verification of all Power BI pages in Power BI Desktop
+- [ ] Final visual review of every presentation slide
+- [ ] Final repository polish and profile links
